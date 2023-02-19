@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+.container {
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 50px 15px;
+}
+.square {
+    width: 30px;
+    height: 30px;
+    background: red;
+    cursor: grab;
+  }

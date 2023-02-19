@@ -1,0 +1,9 @@
+
+Перевод в системы исчесления цифр
+https://math.tools/api/numbers/
+
+Погода
+https://openweathermap.org/current/
+
+Подборка API
+https://apilist.fun/
